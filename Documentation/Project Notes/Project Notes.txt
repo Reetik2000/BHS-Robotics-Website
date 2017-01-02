@@ -1,2 +1,4 @@
 Guide for slider.
 http://materializecss.com/media.html
+
+Touch up blur outlines on 1651 and 1626 then update main slider images accordingly
