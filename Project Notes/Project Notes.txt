@@ -1,2 +1,0 @@
-Guide for slider.
-http://materializecss.com/media.html
