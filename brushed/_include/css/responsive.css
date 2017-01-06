@@ -112,7 +112,8 @@
 	}
 	
 	.type-work {
-		background: url(../img/filter-icon.png) no-repeat;
+		background-image: url(../img/filter-icon.png);
+		background-repeat: no-repeat;
 		width: 16px;
 		height: 16px;
 		display: inline-block;
@@ -277,7 +278,8 @@
 	}
 	
 	.type-work {
-		background: url(../img/filter-icon.png) no-repeat;
+		background-image: url(../img/filter-icon.png) ;
+		background-repeat: no-repeat;
 		width: 16px;
 		height: 16px;
 		display: inline-block;
@@ -406,7 +408,7 @@
 		}
 		
 		.type-work {
-			background-image: url(../img/filter-icon_@2x.png);
+			/*background-image: url(../img/filter-icon_@2x.png);*/
 			background-size: 16px 16px;
 		}
 	}
